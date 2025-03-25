@@ -4,6 +4,12 @@ The _WeWantWaste_ application is a modern web application built with React and T
 
 The app also supports dark and light themes.
 
+
+
+https://github.com/user-attachments/assets/34a0fbad-faa5-4a12-b9d4-1093c652c551
+
+
+
 ## Approach and Technology Stack
 
 1. **Configuration:**
